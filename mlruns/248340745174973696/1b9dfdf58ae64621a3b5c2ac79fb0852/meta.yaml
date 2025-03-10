@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/1b9dfdf58ae64621a3b5c2ac79fb0852/artifacts
+end_time: 1741592261156
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: 1b9dfdf58ae64621a3b5c2ac79fb0852
+run_name: respected-shrimp-214
+run_uuid: 1b9dfdf58ae64621a3b5c2ac79fb0852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741592201261
+status: 3
+tags: []
+user_id: suhaimi

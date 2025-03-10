@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/4d80bfac68ad42eabb8f118eeccf315c/artifacts
+end_time: 1741592380602
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: 4d80bfac68ad42eabb8f118eeccf315c
+run_name: nebulous-sponge-612
+run_uuid: 4d80bfac68ad42eabb8f118eeccf315c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741592311780
+status: 3
+tags: []
+user_id: suhaimi

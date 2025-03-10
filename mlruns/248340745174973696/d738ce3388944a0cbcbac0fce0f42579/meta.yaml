@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/d738ce3388944a0cbcbac0fce0f42579/artifacts
+end_time: 1741576321999
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: d738ce3388944a0cbcbac0fce0f42579
+run_name: welcoming-mouse-68
+run_uuid: d738ce3388944a0cbcbac0fce0f42579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576311682
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/5828973f3ca747da9fb03d02ab24dc25/artifacts
+end_time: 1741593229077
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: 5828973f3ca747da9fb03d02ab24dc25
+run_name: sassy-ant-100
+run_uuid: 5828973f3ca747da9fb03d02ab24dc25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741593186061
+status: 3
+tags: []
+user_id: suhaimi

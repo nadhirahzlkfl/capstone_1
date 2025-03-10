@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/64f2fe7c16d64c639031260d1b32d808/artifacts
+deleted_time: 1741593391787
+end_time: 1741592063603
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: deleted
+run_id: 64f2fe7c16d64c639031260d1b32d808
+run_name: respected-wasp-519
+run_uuid: 64f2fe7c16d64c639031260d1b32d808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741592061242
+status: 4
+tags: []
+user_id: suhaimi

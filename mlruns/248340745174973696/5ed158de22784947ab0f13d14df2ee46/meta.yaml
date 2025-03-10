@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/5ed158de22784947ab0f13d14df2ee46/artifacts
+deleted_time: 1741593391787
+end_time: 1741590352807
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: deleted
+run_id: 5ed158de22784947ab0f13d14df2ee46
+run_name: rebellious-foal-259
+run_uuid: 5ed158de22784947ab0f13d14df2ee46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741590352729
+status: 4
+tags: []
+user_id: suhaimi

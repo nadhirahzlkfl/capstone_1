@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/77b7468f885d45d5924efcd53d39c74a/artifacts
+end_time: 1741576830862
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: 77b7468f885d45d5924efcd53d39c74a
+run_name: painted-gnu-296
+run_uuid: 77b7468f885d45d5924efcd53d39c74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576816982
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/4de271cd527e4826addcc9e87edf201f/artifacts
+end_time: 1741576251063
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: 4de271cd527e4826addcc9e87edf201f
+run_name: thoughtful-flea-614
+run_uuid: 4de271cd527e4826addcc9e87edf201f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576248930
+status: 3
+tags: []
+user_id: suhaimi

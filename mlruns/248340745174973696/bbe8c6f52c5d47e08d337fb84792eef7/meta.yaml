@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/bbe8c6f52c5d47e08d337fb84792eef7/artifacts
+end_time: 1741592569609
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: bbe8c6f52c5d47e08d337fb84792eef7
+run_name: kindly-dog-757
+run_uuid: bbe8c6f52c5d47e08d337fb84792eef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741592495966
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741594433976
+current_stage: None
+description: ''
+last_updated_timestamp: 1741594433976
+name: covid19-dev
+run_id: 42fb64bcf392477e8b269224a665d7ab
+run_link: ''
+source: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/42fb64bcf392477e8b269224a665d7ab/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/42fb64bcf392477e8b269224a665d7ab/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/c4047e62ba2546a5b267d6e88dddc27f/artifacts
+end_time: 1741577202012
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: c4047e62ba2546a5b267d6e88dddc27f
+run_name: fearless-midge-447
+run_uuid: c4047e62ba2546a5b267d6e88dddc27f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741577190003
+status: 3
+tags: []
+user_id: suhaimi

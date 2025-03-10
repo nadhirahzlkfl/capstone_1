@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/df407264945b4041a9410277527d45f7/artifacts
+end_time: 1741578203657
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: df407264945b4041a9410277527d45f7
+run_name: stately-ape-956
+run_uuid: df407264945b4041a9410277527d45f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741578191122
+status: 3
+tags: []
+user_id: suhaimi

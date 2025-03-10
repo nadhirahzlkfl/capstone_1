@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/e72a91a6c7074909ba6e5a103e6eaf83/artifacts
+end_time: 1741591605724
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: e72a91a6c7074909ba6e5a103e6eaf83
+run_name: skittish-crab-424
+run_uuid: e72a91a6c7074909ba6e5a103e6eaf83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741591601146
+status: 3
+tags: []
+user_id: suhaimi

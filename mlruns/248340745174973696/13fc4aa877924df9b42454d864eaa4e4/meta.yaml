@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/13fc4aa877924df9b42454d864eaa4e4/artifacts
+end_time: 1741591779222
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: 13fc4aa877924df9b42454d864eaa4e4
+run_name: bald-shoat-590
+run_uuid: 13fc4aa877924df9b42454d864eaa4e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741591758753
+status: 3
+tags: []
+user_id: suhaimi

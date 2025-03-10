@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/09dcd68d063547e9b934c2df029c9a2e/artifacts
+deleted_time: 1741593391787
+end_time: 1741590585759
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: deleted
+run_id: 09dcd68d063547e9b934c2df029c9a2e
+run_name: unleashed-grub-428
+run_uuid: 09dcd68d063547e9b934c2df029c9a2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741590585694
+status: 4
+tags: []
+user_id: suhaimi

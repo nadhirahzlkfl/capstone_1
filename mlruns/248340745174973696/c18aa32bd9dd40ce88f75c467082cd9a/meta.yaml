@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/c18aa32bd9dd40ce88f75c467082cd9a/artifacts
+end_time: 1741591634998
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: c18aa32bd9dd40ce88f75c467082cd9a
+run_name: trusting-wolf-941
+run_uuid: c18aa32bd9dd40ce88f75c467082cd9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741591619947
+status: 3
+tags: []
+user_id: suhaimi

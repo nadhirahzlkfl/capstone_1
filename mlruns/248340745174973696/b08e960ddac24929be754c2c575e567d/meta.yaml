@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/capstone%20projects/covid19/mlruns/248340745174973696/b08e960ddac24929be754c2c575e567d/artifacts
+end_time: 1741576164218
+entry_point_name: ''
+experiment_id: '248340745174973696'
+lifecycle_stage: active
+run_id: b08e960ddac24929be754c2c575e567d
+run_name: sincere-eel-698
+run_uuid: b08e960ddac24929be754c2c575e567d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741576158714
+status: 3
+tags: []
+user_id: suhaimi

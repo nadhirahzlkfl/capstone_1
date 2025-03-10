@@ -45,7 +45,7 @@ The model architecture is as follows:
 - A Dense layer to output the final prediction (the number of new cases).
 - The model is trained using the Mean Squared Error (MSE) loss function and the Adam optimizer.
 
-![Model Architecture](covid19/static/architecture.png)
+![Model Architecture](static/architecture.png)
 
 Python libraries used:
 
@@ -62,6 +62,6 @@ Python libraries used:
 
 The results are visualized using Matplotlib and Seaborn, showing the predicted vs. actual number of new cases. The training and validation performance are tracked and plotted. MLflow is used to monitor and log the experiments.
 
-![Best model](<covid19/static/mlflow_best model.png>)
+![Best model](<static/mlflow_best model.png>)
 
-![Graph](covid19/static/output.png)
+![Graph](static/output.png)

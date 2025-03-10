@@ -45,7 +45,7 @@ The model architecture is as follows:
 - A Dense layer to output the final prediction (the number of new cases).
 - The model is trained using the Mean Squared Error (MSE) loss function and the Adam optimizer.
 
-![Model Architecture](static/architecture.png)
+![Model architecture](static/architecture.png)
 
 Python libraries used:
 
@@ -64,4 +64,8 @@ The results are visualized using Matplotlib and Seaborn, showing the predicted v
 
 ![Best model](<static/mlflow_best model.png>)
 
-![Graph](static/output.png)
+![Graph performance](<static/mlflow_graph performance.png>)
+
+![Graph performance (validation)](<static/mlflow_graph performance_val.png>)
+
+![Graph prediction](static/output.png)

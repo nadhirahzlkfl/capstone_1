@@ -1,4 +1,4 @@
-# 1. Import packages
+# Import packages
 import os
 import keras
 import datetime
@@ -14,7 +14,7 @@ import tensorflow as tf
 mpl.rcParams['figure.figsize'] = (8, 6)
 mpl.rcParams['axes.grid'] = False
 
-# 9. Data windowing
+# Data windowing
 class WindowGenerator():
   def __init__(self, input_width, label_width, shift,
                train_df, val_df, test_df,

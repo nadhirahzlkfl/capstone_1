@@ -2,6 +2,7 @@
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.experimental import enable_iterative_imputer
 from sklearn.impute import IterativeImputer
+from time_series_helper import WindowGenerator
 import matplotlib.pyplot as plt 
 import matplotlib as mpl
 import seaborn as sns 
@@ -119,4 +120,3 @@ wide_window.plot(model=model,plot_col='cases_new')
 #%%
 y_pred=model.predict(test_df)
 
-#%%

@@ -2,7 +2,6 @@
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.experimental import enable_iterative_imputer
 from sklearn.impute import IterativeImputer
-from time_series_helper import WindowGenerator
 import matplotlib.pyplot as plt 
 import matplotlib as mpl
 import seaborn as sns 
@@ -46,8 +45,8 @@ for i in df_test.columns:
 
 #%% inspect the data
 # check null values
-print(df_train.isna().sum()) # 275 null values for each 7 features columns
-print(df_test.isna().sum()) # 1 null values
+print(df_train.isna().sum()) # there are null values
+print(df_test.isna().sum()) # there are null values
 # replace object with numeric
 df_train['cases_new']=pd.to_numeric(df_train['cases_new'],errors='coerce')
 df_train=df_train.fillna(0)

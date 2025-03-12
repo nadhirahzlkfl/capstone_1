@@ -95,8 +95,6 @@ wide_window.plot(plot_col='cases_new')
 
 #%% create an RNN (LSTM) for the wide window
 n_layer=5
-l2=regularizers.L2()
-init=initializers.HeUniform()
 model=keras.Sequential()
 for i in range(n_layer):
     model.add(keras.layers.LSTM(units=32,return_sequences=True))

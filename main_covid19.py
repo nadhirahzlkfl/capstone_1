@@ -116,5 +116,4 @@ with mlflow.start_run() as run:
 # test prediction
 wide_window.plot(model=model,plot_col='cases_new')
 #%%
-y_pred=model.predict(test_df)
 
